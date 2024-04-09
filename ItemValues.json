@@ -1,0 +1,404 @@
+{
+    "items": [
+        {
+            "Type": "weapon",
+            "description": "a sword longer than normal, maybe it is compensating",
+            "id": 1,
+            "name": "long sword",
+            "damage": 10,
+            "HP": 0
+        },
+        {
+            "Type": "Weapon",
+            "description": "hot and cooking up something",
+            "id": 2,
+            "name": "Frying Pan",
+            "damage": 30,
+            "HP": 30
+        },
+        {
+            "Type": "Weapon",
+            "description": "A tool to cause mass destrcution",
+            "id": 3,
+            "name": "Wet Towel",
+            "damage": 50,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "May sound like footwear, but in the right hands its a universal threat",
+            "id": 4,
+            "name": "Chancla",
+            "damage": 50,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "every childhood enjoyed this",
+            "id": 5,
+            "name": "belt",
+            "damage": 30,
+            "HP":0
+        },
+        {
+            "Type": "weapon",
+            "description": "While flimsy it has a punch",
+            "id": 6,
+            "name": "gancho",
+            "damage": 20,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "common childhood weapon amped up to destroy this threat.",
+            "id": 7,
+            "name": "water cannon",
+            "damage": 150,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "the ability to crack space and time",
+            "id": 8,
+            "name": "gardening hoe",
+            "damage": 20,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "can rewrite reality",
+            "id": 9,
+            "name": "Pencil",
+            "damage": 100,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "created to build, yet it destroys everything",
+            "id": 10,
+            "name": "Hammer",
+            "damage": 10,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "A fun to use on date, oh wrong wood cutter!!",
+            "id": 11,
+            "name": "jigsaw",
+            "damage": 5,
+            "HP": 0
+        },
+        {
+            "Type": "Weapon",
+            "description": "keyboard warrior fears nothing, but in person interactions",
+            "id": 12,
+            "name": "keyboard",
+            "damage": 5,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "Not sure how they work but they make good rocks",
+            "id": 13,
+            "name": "raspberry pi",
+            "damage": 10,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "good choice, raspberry pi's might be good ammo",
+            "id": 14,
+            "name": "slingshot",
+            "damage": 15,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "like a hammer but it is compensating for something",
+            "id": 15,
+            "name": "sledgehammer",
+            "damage": 20,
+            "HP": 0
+        },
+        {
+            "Type": "waepon",
+            "description": "The gun that tamed the west, idk if thats true",
+            "id": 16,
+            "name": "revolver",
+            "damage": 50,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "A hood classic, I should know I live in one",
+            "id": 17,
+            "name": "glock",
+            "damage": 50,
+            "HP": 0
+        },
+        {
+            "Type": "chicken nugget",
+            "description": "You seen how they are made",
+            "id": 18,
+            "name": "chicken nugget",
+            "damage": 75,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "With some car keys, you can take over the world",
+            "id": 19,
+            "name": "tequila bottle",
+            "damage": 75,
+            "HP": 0
+        },
+        {
+            "Type": "weapon",
+            "description": "A roofers delight",
+            "id": 20,
+            "name": "nail gun",
+            "damage": 40,
+            "HP": 0
+        },
+        {
+            "Type": "Weapon",
+            "description": "Drilling is always fun with company, but walls are a close second",
+            "id": 21,
+            "name": "Drill",
+            "damage": 10,
+            "HP": 0
+        },
+        {
+            "Type": "leg armor",
+            "description": "best thigh protection out there",
+            "id": 22,
+            "name": "skirt",
+            "damage": 0,
+            "HP": 25
+        },
+        {
+            "Type": "leg armor",
+            "description": "best paired with a hawaiin shirt",
+            "id": 23,
+            "name": "shorts",
+            "damage": 0,
+            "HP": 25
+        },
+        {
+            "Type": "leg armor",
+            "description": "Full on protection from any threat",
+            "id": 24,
+            "name": "pants",
+            "damage": 0,
+            "HP": 35
+        },
+        {
+            "Type": "chest plate",
+            "description": "Increases gymbro's ego by 100%",
+            "id": 25,
+            "name": "pump cover",
+            "damage": 0,
+            "HP": 100
+        },
+        {
+            "Type": "weapon",
+            "description": "Nothing but strength boost,but something shrinks",
+            "id": 26,
+            "name": "roids",
+            "damage": 80,
+            "HP": 100
+        },
+        {
+            "Type": "chest plate",
+            "description": "common chest plate",
+            "id": 27,
+            "name": "t-shirt",
+            "damage": 0,
+            "HP": 40
+        },
+        {
+            "Type": "chest plate",
+            "description": "Better than a normal t-shirt, you looking fancy",
+            "id": 28,
+            "name": "dress shirt",
+            "damage": 0,
+            "HP": 50
+        },
+        {
+            "Type": "chest plate",
+            "description": "Nothing better than a hoodie in summer",
+            "id": 29,
+            "name": "hoodie",
+            "damage": 0,
+            "HP": 100
+        },
+        {
+            "Type": "chest plate",
+            "description": "Like hoodie but better",
+            "id": 30,
+            "name": "jacket",
+            "damage": 0,
+            "HP": 99
+        },
+        {
+            "Type": "headgear",
+            "description": "I heard that if used backwards, a douchebag will be born",
+            "id": 31,
+            "name": "baseball hat",
+            "damage": 0,
+            "HP": 50
+        },
+        {
+            "Type": "headgear",
+            "description": "The ability to run cross country, and pick strawberries all day is unlocked",
+            "id": 32,
+            "name": "sombrero",
+            "damage": 0,
+            "HP": 50
+        },
+        {
+            "Type": "leg armor",
+            "description": "Why would you do this to yourself",
+            "id": 33,
+            "name": "ripped jeans",
+            "damage": 0,
+            "HP": 20
+        },
+        {
+            "Type": "leg armor",
+            "description": "They were found in mayan pyramid, complete mystery of origin",
+            "id": 34,
+            "name": "superdense shorts",
+            "damage": 0,
+            "HP": 150
+        },
+        {
+            "Type": "chest plate",
+            "description": "Also increases gymbro ego 100%",
+            "id": 35,
+            "name": "tank top",
+            "damage": 0,
+            "HP": 30
+        },
+        {
+            "Type": "consumable",
+            "description": "they are yummy in any tummy",
+            "id": 36,
+            "name": "tacos",
+            "damage": 0,
+            "HP":200
+        },
+        {
+            "Type": "consumable",
+            "description": "The mexican protein bar",
+            "id": 37,
+            "name": "Tamale",
+            "damage": 0,
+            "HP": 300
+        },
+        {
+            "Type": "consumable",
+            "description": "Like tacos, with a different flavor",
+            "id": 38,
+            "name": "Flautas",
+            "damage": 0,
+            "HP": 100
+        },
+        {
+            "Type": "consumable",
+            "description": "If reheated wrong the toilet is your friend",
+            "id": 39,
+            "name": "posoloe",
+            "damage": 0,
+            "HP": 250
+        },
+        {
+            "Type": "headgear",
+            "description": "It was classy once and its still classy, but weird now",
+            "id": 40,
+            "name": "top hat",
+            "damage": 0,
+            "HP": 10
+        },
+        {
+            "Type": "headgear",
+            "description": "El barrios favorite",
+            "id": 41,
+            "name": "bandana",
+            "damage": 0,
+            "HP": 100
+        },
+        {
+            "Type": "headgear",
+            "description": "Best way to ignore the haters",
+            "id": 42,
+            "name": "headphones",
+            "damage": 0,
+            "HP": 30
+        },
+        {
+            "Type": "consumable",
+            "description": "Buns with meat in the middle, where have I seen that before",
+            "id": 43,
+            "name": "Hamburger",
+            "damage": 0,
+            "HP": 150
+        },
+        {
+            "Type": "leg armor",
+            "description": "Not sweatpants, but pants with sweat",
+            "id": 44,
+            "name": "sweat pants",
+            "damage": 0,
+            "HP": 100
+        },
+        {
+            "Type": "footwear",
+            "description": "Normal army boots, all purpose",
+            "id": 45,
+            "name": "boots",
+            "damage": 0,
+            "HP": 60
+        },
+        {
+            "Type": "footwear",
+            "description": "Can be used for any occasion, just need to own it",
+            "id": 46,
+            "name": "sneakers",
+            "damage": 0,
+            "HP": 50
+        },
+        {
+            "Type": "footwear",
+            "description": "Just as versetile as sneakers, but for the rural arena",
+            "id": 47,
+            "name": "cowboy boots",
+            "damage": 0,
+            "HP": 60
+        },
+        {
+            "Type": "footwear",
+            "description": "can be used for anything, including walking on the moon",
+            "id": 48,
+            "name": "huaraches",
+            "damage": 0,
+            "HP": 80
+        },
+        {
+            "Type": "footwear",
+            "description": "People give weird stares, but they just hating on your swag",
+            "id": 49,
+            "name": "hotdog buns",
+            "damage": 0,
+            "HP": 250
+        },
+        {
+            "Type": "footwear",
+            "description": "Now this is another classic, but can be taken to any club and a lucky ending occurs",
+            "id": 50,
+            "name": "Boots with the fur",
+            "damage": 0,
+            "HP": 100
+        }
+    ]
+}
